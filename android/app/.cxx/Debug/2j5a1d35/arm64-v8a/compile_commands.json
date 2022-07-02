@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/mac/Documents/UPWORK/DmitryMaslov/project/ReactNativeWireguard/android/app/.cxx/Debug/2j5a1d35/arm64-v8a",
+  "command": "/Users/mac/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/mac/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/mac/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Ddummy_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -O3 -std=gnu11 -Wall -pedantic -Wno-missing-field-initializers -Wno-unused-function -o CMakeFiles/dummy.dir/dummy/dummy.c.o -c /Users/mac/Documents/UPWORK/DmitryMaslov/project/ReactNativeWireguard/android/app/src/tools/dummy/dummy.c",
+  "file": "/Users/mac/Documents/UPWORK/DmitryMaslov/project/ReactNativeWireguard/android/app/src/tools/dummy/dummy.c"
+}
+]
